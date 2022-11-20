@@ -1,16 +1,8 @@
 # protfolio
 
-A new Flutter project.
+![Screenshot 2022-11-20 at 7 44 16 PM](https://user-images.githubusercontent.com/69357545/202907131-84c841e3-5af9-4350-9704-673b7e98e8cb.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-11-20 at 7 44 23 PM](https://user-images.githubusercontent.com/69357545/202907234-76f395ac-fc72-4ee4-8bab-fe3e73734dd7.png)
+![Screenshot 2022-11-20 at 7 44 28 PM](https://user-images.githubusercontent.com/69357545/202907236-31012ccd-6325-48fd-8a69-c785ef0d3730.png)
+![Screenshot 2022-11-20 at 7 44 34 PM](https://user-images.githubusercontent.com/69357545/202907243-93d7c52d-fde2-45e7-ade5-e61943b7b103.png)
+![Uploading Screenshot 2022-11-20 at 7.46.36 PM.png…]()
